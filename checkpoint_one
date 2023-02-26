@@ -16,8 +16,11 @@ INSTRUCTIONS:
 
 Two weeks ago, you did Checkpoint 3 where you were asked to fill-up several details such as your name, your favorite music, and you definition of Git.
 For today, your task will be to do the following:
-1. Create a new branch based from the master following the prescribed convention: <gitUserName>/checkpointOne
+1. Create a new topic branch based from the master following the prescribed convention: 	<gitUserName>/checkpointOne
 2. On that new branch, kindly create a new folder named checkpoints
 3. Then kindly put the checkpoint 3 file you created last time
 4. Add, Commit, and Push your new folder and file to the origin
+	git add <filename>
+	git commit -m "meaningful" message
+	git push 
 
