@@ -2,9 +2,40 @@
 *
 *     ISDEVOP S12
 *     ISDEVOP Checkpoint 3
-*     Objective: Scripting Best Practices
+*     Objective: Group Performance Task
 *     
 *     Author: Lourdes Mendoza
 *     Date: February 25, 2023
 *     
 **********************************************************************
+
+PREREQUISITE:
+After the leader has created the checkpoint_three_yourGroupname, refer to the following instructions:
+
+INSTRUCTIONS:
+For this activity, kindly wear the hat of a Quality Assurance Analyst, and write a pseudo test script for the assigned application to your group.
+
+APPLICATION 1: ENROLLMENT SYSTEM
+- Group 2
+- Group 4
+- Group 5
+- Group 8
+- Group 10
+- Group 12
+- Group 14
+
+APPLICATION 2: INVENTORY SYSTEM
+- Group 3
+- Group 6
+- Group 7
+- Group 9
+- Group 11
+- Group 13
+- Group 15
+
+NOTE:
+There are no required minimum or maximum number of test cases, the leader just need to make sure that all members have their assigned task. For example: A group with 4 members (including the leader) is assigned to test an Enrollment System.
+- Student 1 will write a pseudo test code for Registration, Login, and Logout Features
+- Student 2 will write a pseudo test code for Adding the Subject, the Room, and the Schedule and assigning these items together (ISDEVOPS - G306A - 1240H to 1415H)
+- Student 3 will write a pseudo test code for Function x
+- Student 4 will write a pseudo test code for Function y
