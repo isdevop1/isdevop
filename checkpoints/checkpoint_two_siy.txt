@@ -1,0 +1,8 @@
+1. In your own words, do you think, we really need DevOps?
+DevOps is about removing the barriers between traditionally siloed teams, development and operations. 
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+CI stands for continuous integration, a fundamental DevOps best practice where developers frequently merge code changes into a central repository where automated builds and tests run. But CD can either mean continuous delivery or continuous deployment.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+It is the implementation of the different toolkits between development and operations teams. Identifying and synchronizing any difference between the two is the most significant part of making everything work properly.
