@@ -1,0 +1,13 @@
+1. In your own words, do you think, we really need DevOps?
+	Yes, I think we need DevOps. DevOps promotes faster software development and 
+	deployment times while also ensuring it is in stable condition. Furthermore, 
+	it also enables easier maintenance to previous versions if any issues arise.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+	Continuous Integration - a software development practice where developers push source code changes as soon as possible.
+	Continuous Delivery - a software development practice where the software is release to production in small batches. This practice helps with troubleshooting as well since issues can be traced based on the batches released.
+	Continuous Deployment - a software development practice where any pushed changes in the software will be directly released to production and users will be able to directly interact with it.
+
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	Based off my experience so far, the most challenging part of DevOps would be the learning of new technologies. Learning new things are nice and all, but needing to learn it while existing in a fast paced environment is what makes it hard pushing you to learn faster, and have better management skills.
