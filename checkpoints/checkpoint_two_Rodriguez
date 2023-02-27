@@ -1,0 +1,27 @@
+**********************************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 2 -- Git Commands Reinforcement
+*     Objective: GitKraken and Branching
+*     
+*     Author: Rodriguez, Ziv
+*     Date: February 27, 2023
+*     
+**********************************************************************
+1. In your own words, do you think, we really need DevOps?
+---- Yes, DevOps is needed especially in professional settings. The processes and procedures are different when you are working with tens
+------or dozens people. DevOps helps alleviate silo culture by promoting collobration.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+---- CI or Continious integration is a principle or components of DevOps where programmers or developers should push to the shared repositosry
+as often as possible. This can help with building, verfying and testing code because code is added frequently.
+---- The first CD or Continious Delivery is using tools or automation to streamlnie the process of development. It is an extension of CI, wherein
+the software being developed can be released at any time.
+---- The secon CD or Continious Deployment is a practice where there is a production envronment wherein as soon as a developer chages something,
+it is also automatically changed in the production environment.
+All three components use tools such as automation, version control software such as GIT and SVN.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+---- Like in many businesses and organizations, it could be hard to transition from one framework to another. It could require lots of capital
+and manpower which organizations sometimes cannot justify. It could also be hard for individual developers to change their mindset and work
+with others, which is needed in DevOps.
