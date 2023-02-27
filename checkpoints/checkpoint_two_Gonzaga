@@ -1,0 +1,31 @@
+**********************************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 2 -- Git Commands Reinforcement
+*     Objective: GitKraken and Branching
+*     
+*     Author: Lourdes Mendoza
+*     Date: February 25, 2023
+*     
+**********************************************************************
+
+1. On the same folder and branch where you put your checkpoint_one, create a new file named checkpoint_two_<yourSurName> then answer the following questions:
+
+	1. In your own words, do you think, we really need DevOps? DevOps is neccesary as it immensely increases the speed of development and operations of systems used by the customers which in turn will increase profits or customer ratings. 
+
+	2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+The three components of devops differentiate in the maturity of automation. 
+Continious Integration is like the level one where it only builds the code and do the automated testing. 
+Meanwhile, continious delivery has similar steps but it will automate the deployment to the stage where it can be "pulled" by the users. Lastly, continious deployment covers all the continious integration and deliery steps but this time it automates the deployment to the production for the users so see without having to downoad any updates compared to continious delivery. 
+
+	3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+The most challenging part of observing the DevOps framework for me is the increase of tools needed to make sure devops is in place. Especially when you are used to doing a specific task only, it can be scary to adapt and learn a new tool as it can also pose a learning curve, but it will benefit everyone in the long run.
+
+
+2. Once you're done -- Add, Commit, and Push your work to the origin
+	git add <filename>
+	git commit -m "meaningful" message
+	git push origin
+
+
+//NOTE: Kindly follow coding/scripting best practice when doing the activity
