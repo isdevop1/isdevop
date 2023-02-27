@@ -1,0 +1,6 @@
+Name: Carlo Miguel Cortez
+Favorite Movie: The Social Network
+Favorite Band: Jamiroquai
+Favorite Song: Tuning In to You (Wonstein)
+Then lastly, complete the sentence
+        Git is a distributed version control system developed by Linus Torvalds and a tool in DevOps.
