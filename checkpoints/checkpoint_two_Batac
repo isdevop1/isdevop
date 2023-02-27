@@ -1,0 +1,15 @@
+1. In your own words, do you think, we really need DevOps?
+- I strongly believe we need DevOps. The reason to why so is because, primarily, it helps us to do work significantly faster and better. That is to say, as it enables quick delivery of software through automation and continuous integration and delivery, together with constant testing and monitoring, we will be able to develop projects in a much more rapid-pace whilst maintaining quality and reliability. Other than this, I standby with the necessity of DevOps, for the reason that it fosters collaboration between departments - which leads to better coordination, faster problem resolution, and efficient use of resources.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+- Continuous Integration (CI)
+    -> Continuous Integration, also known as CI, is a practice used in software development that involves developers integrating changes made to the source code into a shared repository as frequently and early as possible, with the ideal goal being multiple integrations per day
+
+- Continuous Delivery (CD)
+    -> Continuous Delivery (CD) is an extension of Continuous Integration. In particular, it refers to a process in software development whereby the software is always in a deployable state and can be released to production whenever necessary. To mention as well, as CD includes automation (i.e. fully automated release deployment), this also results into a much faster development process.
+
+- Continuous Deployment (CD)
+    -> Continuous Deployment (CD), also referred to as CD, is regarded as the highest level (superlative form) of software development practice, as it extends or builds upon the principles of Continuous Integration and Continuous Delivery. In contrast to Continuous Delivery, CD goes beyond by releasing the software every time a developer adds some changes, making it also visible on the end of the users.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+- What could be the most challenging part for me is the transition to DevOps itself. In particular, learning the usage of new tools (e.g. being new to Git and using it in my case) and practices, as well as gaining the necessary skills, could be difficult as it requires a lot of time into getting used to (especially if one is used to traditional methods) and in understanding both of the core & branching concepts. Also, as DevOps requires a collaborative environment, people, such as myself, who are used to doing tasks alone could find it hard to coordinate with others.
