@@ -1,0 +1,12 @@
+1. In your own words, do you think, we really need DevOps?
+ -Yes we do need DevOps. With DevOps, it helps us, people who studies and people work with technologies, develop new softwares or products faster. We really need devops, because as I've stated it does not only helps us develop new products faster, but also fixing of existing deployments becomes much easier.
+ 
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+ - Continuous Integration is a software development method where engineers incorporate source code updates as early as frequently as possible, ideally many times per day, into the common repository. It also provides for the early detection and elimination of software flaws, significantly speeding the rate of software development.
+
+ - Continuous Delivery is a further development of continuous integration where software is always ready for production release. It also comprises completely automated release deployment in addition to the automated build and test processes of continuous integration, hastening the development process even further.
+ 
+ - Continuous Deployment is the highest level of software development practice. It takes continuous integration and delivery to their logical conclusion. In contrast to continuous delivery, the software is not simply ready to be delivered to production at any moment. In reality, it is being released as soon as the developer makes any modification, which happens frequently throughout the day.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+- For me the most challenging part in DevOps framework is adjusting to DevOps, We've been using the traditional method in where I got used to doing. Learning new skills and using new tools to implement projects was hard to adjust to. 
