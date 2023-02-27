@@ -1,0 +1,27 @@
+Terel Crisostomo
+S12
+
+1. In your own words, do you think, we really need DevOps?
+
+Yes, we need DevOps because it makes us develop projects faster and ensure that they are well-maintained when deployed. It helps us to improve our processes
+on how we develop things (especially on software) and guarantees that what we build is something reliable and efficient. Moreover, it helps us to communicate with 
+other departments that can easily lead to better feedback which can help us determine the areas that we need to improve moving forward.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+Continuous Integration (CI) - is a practice that integrates source code changes to a shared repository. It is essential for projects wherein many 
+                              contributors/developers will work with one another because every change they do will be located in one location only.
+
+Continuous Delivery (CD) - is an extension of Continuous Integration (CI) where the project can be ready for production release anytime. The entire
+                           process for releasing the project is already automated because every change is automatically built, tested, and configured
+
+Continuous Deployment (CD) - is a practice that functions beyond Continuous Delivery (CD) because it automatically deploys the project to the production
+                             environment. Changes made will be quickly visible to the users, and there is no need to wait just to manually 
+                             deploy these.
+
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+
+The most challenging part for me would be the transition or learning everything from the beginning because there will be the need to adjust to new
+practices. The utilization of different tools can be difficult to grasp because of being unfamiliar with them. I think it is also challenging to monitor
+every update or change done in the projects especially if there are several people who are simultaneously working on it.
