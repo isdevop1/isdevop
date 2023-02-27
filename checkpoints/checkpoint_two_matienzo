@@ -1,0 +1,39 @@
+*********************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 2 -- Git Commands Reinforcement
+*     Objective: GitKraken and Branching
+*     
+*     Author: Aedan Matienzo
+*     Date: February 27, 2023
+*     
+*********************************************************
+
+For this activity, kindly do the following
+
+1. In my opinion, we really need DevOps because it will 
+	enable faster development and deployment, promotes 
+	shorter and controllable iterations, and automation. 
+	Streamlining manual processes can provide better speed, 
+	greater accuracy, and consistency which are essential
+	in an organization in order to provide quality output.
+2. Continuous Integration (CI) merge changes back to the main 
+	branch/shared repository as often as possible in order to 
+	accelerate development speed. 
+   Continuous Delivery (CD) is an extension of continuous 
+   integration where it automatically deploys all changes to 
+   a testing environment which further speeds up development 
+   process.
+   Continous Deployment (CD) is another step further from 
+   continous delivery where changes made are released as soon 
+   as any change is made by the developer. Not only it further 
+   speeds up development process but it also accelerates the 
+   feedback loop with its end users.
+3. In my opinion, the most challenging part of observing the 
+	DevOps framework is with how multiple teams will work together. 
+	Managing multiple environments can be difficult and in DevOps, 
+	it is important that these teams are to be integrated together 
+	and there must be collaboration. Moreover, these teams can 
+	have different cultures/practices hence it is important for all 
+	teams to be guided as in DevOps, teams share responsibilities 
+	and their work is combined.
