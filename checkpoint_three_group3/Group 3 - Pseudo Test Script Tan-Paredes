@@ -1,0 +1,27 @@
+Test Script for an Inventory System
+
+Pseudo test code for Registration, Login, and Logout Features:
+
+Test for Registration:
+
+1. Enter valid registration details (name, email, password).
+2. Submit the registration form.
+3. Verify that the user is successfully registered and redirected to the login page.
+4. Try to register with invalid inputs (missing required fields, incorrect data types).
+5.Verify that appropriate error messages are displayed and the user is not registered.
+
+Test for Login:
+
+1. Enter valid login credentials (email, password) for an existing user.
+2. Submit the login form.
+3. Verify that the user is successfully logged in and redirected to the home page.
+4. Try to login with invalid credentials (wrong email or password).
+5. Verify that appropriate error messages are displayed and the user is not logged in.
+
+Test for Logout:
+
+1. Log in as an existing user.
+2. Click on the logout button.
+3. Verify that the user is successfully logged out and redirected to the login page.
+4. Try to access restricted pages or actions after logging out.
+5. Verify that the user is denied access and redirected to the login page.
