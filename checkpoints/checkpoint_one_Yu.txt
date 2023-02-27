@@ -1,0 +1,6 @@
+Name: Karl Sherick Yu
+Favorite Movie: Spectral 
+Favorite Band: Coldplay
+Favorite Song: Amazing Grace
+Then lastly, complete the sentence:
+        Git is: one of the most basic tools in a DevOps environment
