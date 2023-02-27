@@ -1,0 +1,22 @@
+Test Scrips for an Inventory System
+
+Test for searching items:
+
+1. Search for an existing item by its name or ID.
+2. Verify that the search result returns the correct item details.
+3. Search for a non-existent item by its name or ID.
+4. Verify that the search result returns no items.
+
+Test for inventory reporting:
+
+1. Generate an inventory report for all items.
+2. Verify that the report includes all items and their details.
+3. Generate an inventory report for a specific category of items.
+4. Verify that the report includes only items from the specified category.
+
+Test for inventory alerts:
+
+1. Set up an alert for low inventory levels of a specific item.
+2. Verify that an alert is triggered when the item's stock level falls below the set threshold.
+3. Try to set up an alert for a non-existent item or with invalid inputs.
+4. Verify that the alert is not set up and no errors are thrown.
