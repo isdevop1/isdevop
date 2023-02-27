@@ -1,0 +1,35 @@
+Test script for Register
+Test 1: Left a required field blank
+1. Go to the website
+2. Click on register
+3. Leave one required field blank
+4. I should be promopted to fill up all the fields
+
+Test 2: Fill up all fields
+1. Go to the website
+2. Click on register
+3. Fill up all the required fields
+4. I should redirected to the login page
+
+Test script for Login
+Test 1: Login with invalid ID Number
+1. Input ID number that is invalid in the system
+2. Input the password
+3. I should be notified that the ID number is not valid
+
+Test 2: Login with a valid ID number but incorrect password
+1. Input ID number that is valid in the system
+2. Input an incorrect password
+3. I should be notified that the password is incorrect
+
+Test 3: Login with correct credentials
+1. Input ID number that is valid in the system
+2. Input the correct password
+3. I should see the home screen where I can add/drop a class
+
+Test script for Logout
+Test 1: Logout
+1. I click on the "logout" button on the upper right corner
+2. I should be redirected to the login page
+
+
