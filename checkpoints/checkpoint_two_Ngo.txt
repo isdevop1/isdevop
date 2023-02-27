@@ -1,0 +1,8 @@
+1. In your own words, do you think, we really need DevOps?
+Yes we need DevOps because it brings together software development and operations teams to improve collaboration and streamline the software development and deployment process, resulting in faster and more reliable delivery of software products and services to clients/customers. 
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD
+CI (Continuous Integration) - the practice of frequently merging code changes to a central repository
+CD (Continuous Delivery) - the practice of automatically deploying code changes to a staging environment for testing
+CD (Continuous Deployment) - the practice of automatically deploying code changes to production after they have been tested and approved in a staging environment.
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+I believe the most challenging part based on my experience so far, is currently in the Continuous Integration phase of the framework such that I have not memorized all the git commands.
