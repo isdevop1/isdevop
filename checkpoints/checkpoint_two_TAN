@@ -1,0 +1,27 @@
+Tan, Kathleen 
+February 27, 2023
+S12
+
+1. In your own words, do you think, we really need DevOps?
+
+	Personally, I think that we need DevOps as it is now emerging in the tech industry and it aims to increase an organization's ability to deliver applications and sevices at high velocity. 
+	DevOps has become increasingly important in recent years as software development and IT operations have become more integrated and automated. In addition, it enables organizations to develop
+	and deploy software faster and more efficiently which is achieved through the automation of processes and the use of tools for continuous integration and delivery. Since DevOps promotes
+	collaboration between development and operations team, as well as quality assurance and security teams, better communication and a shared sense of ownership over the software development process
+	is achieved.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+	- CI or Continuous Integation involves automatically building, testing, and integrating code changes into a shared repository on a frequent basis.
+		Its goal is to identify and fix integration issues as early as possible in the development process, reducing the risk of defects and other issues. Git is an example of a tool that is used in CI.
+		
+	- CD or Continuous Delivery is a software development practice that builds on top of CI to automate the entire software delivery process, from code changes to deployment.
+		Its goal is to enable organizations to release software to production quickly and reliably, while maintaining high levels of quality and minimizing the risk of errors and failures.
+		
+	- CD or Continuous Deployment automatically deploy code changes to production as soon as they pass all tests and quality checks and it builds on top of Continuous Delivery.
+		Its goal is to continuously and automatically release new features and updates to customer, without manual intervention.
+	
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+		
+	Observing the DevOps framework can be challenging, as it involves changes to the culture, processes, and technology of an organization. However, the most challenging part for me would be the
+	change in processes which includes automating repetitive tasks, breaking down silos between development and operations team, and implementing continuous integration, delivery, and deployment.
