@@ -1,0 +1,24 @@
+**********************************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 2 -- Git Commands Reinforcement
+*     Objective: GitKraken and Branching
+*     
+*     Author: Alyssa Marie O. Santos
+*     Date: February 27, 2023
+*     
+**********************************************************************
+
+1. In your own words, do you think, we really need DevOps?
+	As a developer, I think we do really need DevOps. I have experienced using the Agile Methodology and there is always something lacking which is the DevOps part. Utilizing the concept of DevOps would help us develop faster and ensuring the maintenance of the development as well.
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+	Continuous Integration
+		Continuous integration involves developers pushing code changes to a common or shared repository, which triggers an automated build and testing process. This procedure compiles and tests the codebase to ensure that any developer modifications are consistent with the current code and that no conflicts or mistakes occur.
+	
+	Continuous Delivery
+		This is an extension of CI wherein the staging up to the production is done manually.
+
+	Continuous Deployment
+		The staging to production is done automatically.
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	So far the challenge in observing DevOps framework would be learning the tools like getting used to terminal and git in general and memorizing the commands needed. 
