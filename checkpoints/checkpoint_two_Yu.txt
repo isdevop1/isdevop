@@ -1,0 +1,17 @@
+1. In your own words, do you think, we really need DevOps?
+
+	Yes, because DevOps helps facilitate faster decision making, allowing for more efficient and agile development. It can help organizations create a high quality software quicker
+	and fewer errors which results to improved customer satisfaction and better user experience.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+	Continuous Integration - is a practice where developers make frequent updates to code, and then are verified by an automated build.
+	Continuous Delivery - it automates the process of pushing new code to a non-production environment such as a staging or testing server. This will ensure that the code are safe
+	and verified before it gets release to the public.
+	Continuous Development - is a strategy where a new code or a change is deployed directly to the production environment after going through a set of rigorous, automated tests.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+
+	For me, I think the most challenging of observing DevOps framework is it can be difficult to develop and maintain a unified DevOps strategy across the organization,  as it 
+	involves multiple teams and various tools. Another possible challenge is that adopting to DevOps requires cultural shift since  DevOps is a collaboration-based methodology, it 
+	requires teams to be willing to work together and trust each other’s opinions and decisions. 
