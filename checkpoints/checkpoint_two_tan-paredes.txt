@@ -1,0 +1,15 @@
+1. In your own words, do you think, we really need DevOps?
+Yes, because DevOps aims to bridge the gap between software development and operations teams. involves automating the software delivery process, 
+improving collaboration, and streamlining communication to enable faster and more frequent releases. DevOps helps organizations deliver software 
+with greater speed, efficiency, and reliability.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+Continuous Integration focuses on integrating code changes frequently and testing them automatically.
+Continuous Delivery focuses on preparing code changes for release automatically, ensuring they're in a deployable state with minimal manual intervention.
+Continuous Deployment goes further, automating the actual deployment of code changes to production, minimizing the need for human intervention.
+
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+I think that the most challenging part of observing the DevOps framework is the Cultural change or shift that organizations have to undergo, 
+which can be difficult to achieve. It involves breaking down silos between teams, promoting collaboration, and prioritizing shared goals. 
+Resistance to change can be a significant hurdle, especially in large organizations.
