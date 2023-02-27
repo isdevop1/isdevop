@@ -1,0 +1,22 @@
+1. In your own words, do you think, we really need DevOps?
+
+DevOps is essential as it is a software development approach that supports 
+other previous frameworks and methodologies such as Waterfall and Agile. The 
+utilization of DevOps can assist people in creating applications and software efficiently 
+without any silos. As time passes, DevOps will show its advantages and faults over time, 
+which leads to another approach's creation that is more flexible and adaptive to users' needs.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+Continuous Integration - this is where developers frequently add source code changes to the main branch and automate tests to verify if the code is working as intended.
+
+Continuous Delivery - is an extension of CI and a process of deploying software code ready to be released in a production environment.
+
+Continuous Deployment - Combines both mentioned previous forms and releases the software code immediately and automates deploying changes to production without any manual process.
+
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+
+From my experience, I think the challenging part is adjusting to the tools used for each phase in the framework, 
+especially Git, and whether we could follow the continuous cycle if we already have problems starting from the 
+code integration part, which would need some practice and adjustments once we get used to the software.
