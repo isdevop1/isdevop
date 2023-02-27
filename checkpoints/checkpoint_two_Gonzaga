@@ -21,7 +21,6 @@ Meanwhile, continious delivery has similar steps but it will automate the deploy
 	3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 The most challenging part of observing the DevOps framework for me is the increase of tools needed to make sure devops is in place. Especially when you are used to doing a specific task only, it can be scary to adapt and learn a new tool as it can also pose a learning curve, but it will benefit everyone in the long run.
 
-
 2. Once you're done -- Add, Commit, and Push your work to the origin
 	git add <filename>
 	git commit -m "meaningful" message
