@@ -1,0 +1,25 @@
+Test Script for an Inventory System
+
+1. Adding a New Item
+
+- Create a new item
+- Verify that new item is added to the inventory list
+- Create a new item with invalid inputs
+- Verify that the inventory list is not update
+- Test for updating existing items
+
+2. Update an existing Item
+
+- Choose an existing item from the inventory list
+- Update the item with valid inputs
+- Verify that the item details are updated in the inventory list
+- Try to update the item with invalid inputs
+- Verify that the item details are not updated with the invalid inputs
+
+3. Delete an Item
+
+- Choose an existing item from the inventory list
+- Delete the item
+- Verify that the item is no longer in the inventory list
+- Try to delete an item that doesn't exist
+- Verify that the inventory list is not changed
