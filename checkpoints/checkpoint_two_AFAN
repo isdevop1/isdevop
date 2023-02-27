@@ -1,0 +1,11 @@
+Checkpoint 2
+AFAN, ANDREI G.
+
+1. In your own words, do you think, we really need DevOps?
+	Yes. DevOps is needed today. Technology is a fast-moving industry and there are a lot of software development activities done. I have learned throughout the lessons that DevOps is a solution presented to address the issues brought about by the other rigid Software Development Methodologies. DevOps allows Software Development and Software Delivery to be performed simultaneously wherein programmers can work hand in hand with operations. DevOps also allowed collaboration and sharing of source codes between developers that allowed history tracking and little to no overlapping of codes. Quality Assurance Testers can test codes without waiting for the whole project to be completed. This addresses the constant changing in the requirements of software development and makes the application relevant once it is done. 
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+	Continuous Integration as defined is the practice in software development in which developers integrate the source code changes into a shared repository. Continuous Delivery happens when the code changes are automatically deployed to a testing/production environment after the build stage. Continuous Deployment is the part where the uploaded code changes are pushed to the production environment wherein the changes will be visible to the customers. 
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	Based on my experience, the most challenging part of observing a DevOps framework is handling the different branches that come from different developers. It is hard for me to understand where the changes are coming from and how to prevent codes from overlapping. I also think that people/employees can also be a challenge in implementing DevOps as most of the people do not have a lot of knowledge on DevOps and still requires training. Nevertheless, if an organization implements DevOps, it will surely reap its benefits in the long run. 
