@@ -1,0 +1,13 @@
+1. In your own words, do you think, we really need DevOps?
+
+Yes and no.  I think that DevOps is especially important to use in settings where there are multiple people working on multiple different parts or files of a project at the same time, basically a large scale operation.  However I think that in a small scale, DevOps is not really important but should still be preferred.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+Continuous Integration - Primarily focuses on preventing issues that happen when integrating or releasing a new piece of code by pushing to the main branch as often as possible and by automating testing.
+Continuous Delivery - Automatically builds and releases the updated application at the discretion of the DevOps Engineer.
+Continuous Deployment - Automatically builds and releases the updated application whenever the update passess all the stages even without input from the DevOps Engineer.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+
+For me, the most challenging thing about DevOps is having to get used to using new tools to support the process.
