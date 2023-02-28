@@ -1,0 +1,24 @@
+# Test Script for Dropping a Subject in the Enrollment System
+
+– Test 1: Verify Subject Availability
+
+1. Log in to the Enrollment system
+2. Navigate to the list of enrolled subjects
+3. Verify that the subject (ISDEVOPS - G306A - 1240H to 1415H) is currently enrolled
+
+– Test 2: Drop Subject
+
+4. Click on the "drop subject" button on the list of options
+5. Select the subject (ISDEVOPS - G306A - 1240H to 1415H) to be drop  
+6. Click Confirm
+7. Verify that a confirmation message appears
+8. Confirm the drop
+9. Navigate to the list of enrolled subjects
+10. Verify that the item (ISDEVOPS - G306A - 1240H to 1415H) is no longer in the enrolled subjects
+
+– Test 3: Verify Updated Availability
+
+11. Log in to the Enrollment system
+12. Navigate to the list of drop subjects
+13. Verify that the subject (ISDEVOPS - G306A - 1240H to 1415H) is already drop
+
