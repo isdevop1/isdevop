@@ -1,0 +1,12 @@
+1. In your own words, do you think we really need DevOps?
+DevOps is essential in the IT industry because, without DevOps, operations and development teams will often have conflict. In DevOps, the release process is the responsibility of every department. Instead of an individual perspective, it promotes an open culture of collaboration, strong departmental relationships, and better team spirit. Although dealing with third-party vendors might still be difficult, a relaxed atmosphere generally works better than restrictions and rules.
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+Continuous integration involves regularly merging code updates in a centralized shared repository and validating the build using automated tests. To ensure a running build that incorporates all packaged changes continuously, any integration-related issues are fixed at this point.
+
+Continuous Delivery is the process of making sure that code is always in a deployable condition. All code modifications, including new features, bug repairs, experiments, and configuration changes, are prepared for deployment to a production environment. 
+
+Continuous Deployment is the process of automatically deploying all changes to production. There is no final manual approval process before release into production with Continuous Delivery.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+So far, I have no experience with DevOps, but I think the most challenging part of observing DevOps is adopting and integrating new tools. A team must overcome the adoption problem of selecting several tools for development, testing, and deployment to guarantee they all function together to utilize DevOps properly. These solutions must fulfill security standards and be simple to integrate with your infrastructure, so choosing the right one can be extremely difficult. Also, everyone needs to be well-trained on the new set of tools to ensure that production is not affected.
+
