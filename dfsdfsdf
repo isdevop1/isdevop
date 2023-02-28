@@ -1,0 +1,176 @@
+[33mcommit 03a097ec8facf6f8c9394394d106b85b90953b30[m[33m ([m[1;36mHEAD -> [m[1;32mcheckpoint_three_Group4[m[33m, [m[1;31morigin/checkpoint_three_Group4[m[33m)[m
+Merge: 2236eed 25ffe6d
+Author: tiffanyanneso <tiffany_anne_so@dlsu.edu.ph>
+Date:   Tue Feb 28 09:29:56 2023 +0800
+
+    Merge branch 'checkpoint_three_Group4' of https://github.com/isdevop1/isdevop into checkpoint_three_Group4
+
+[33mcommit 2236eed8730ebb381e50cc303db4e5ed68c9fe67[m[33m ([m[1;31morigin/checkpoint_three_So[m[33m)[m
+Author: tiffanyanneso <tiffany_anne_so@dlsu.edu.ph>
+Date:   Mon Feb 27 23:07:27 2023 +0800
+
+    added test scripts for register, login, logout
+
+[33mcommit d8c7eca164d1f35c22473879b6199972315c1744[m
+Author: tiffanyanneso <tiffany_anne_so@dlsu.edu.ph>
+Date:   Mon Feb 27 22:56:26 2023 +0800
+
+    added test script for register, login, logout
+
+[33mcommit 25ffe6de7204c09d428b9eabcf2faef2e04eb271[m
+Author: sherick02 <karl_sherick_yu@dlsu.edu.ph>
+Date:   Mon Feb 27 20:37:18 2023 +0800
+
+    added Pseudo Test Code for Dropping Class
+
+[33mcommit eab46e65f0ade4a17dc207368e48c10f538c5b53[m
+Author: Miguel Gonzaga <luis_gonzaga@dlsu.edu.ph>
+Date:   Mon Feb 27 19:15:05 2023 +0800
+
+    Added pseudo test code for swapping subjects to main
+
+[33mcommit 8f84130948a344547fc4dc07841f28785b3f9449[m
+Author: Miguel Gonzaga <luis_gonzaga@dlsu.edu.ph>
+Date:   Mon Feb 27 18:14:58 2023 +0800
+
+    Added pseudo test code for swapping subjects
+
+[33mcommit a137a7ec0dfb0af04b7288e4d5a1faba210b8004[m[33m ([m[1;31morigin/tiffanyanneso/checkpointOne[m[33m)[m
+Author: tiffanyanneso <tiffany_anne_so@dlsu.edu.ph>
+Date:   Mon Feb 27 12:47:01 2023 +0800
+
+    added file for checkpoint2
+
+[33mcommit bb9cf053e2b5dd918bc95b7479ee35806ebe78cc[m[33m ([m[1;32mmaster[m[33m, [m[1;32mcheckpoint_three_group[m[33m)[m
+Author: tiffanyanneso <tiffany_anne_so@dlsu.edu.ph>
+Date:   Mon Feb 27 12:24:46 2023 +0800
+
+    added file from previous checkpoint
+
+[33mcommit 98939b99ae90f5903368dcd65557c09fc19de29d[m
+Merge: 5b85a82 db7ba93
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:43:17 2023 +0800
+
+    Merge branch 'checkpoint_three_group'
+
+[33mcommit db7ba93347ad834ab22a942ae912d000999a017a[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:15:55 2023 +0800
+
+    added checkpoint_three
+
+[33mcommit d954eae2479e3897e8b3e1699491929732994982[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:14:29 2023 +0800
+
+    Deleted checkpoint_three
+
+[33mcommit 5b85a821dbf136169c86b0a2d70ef25a6603f205[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:13:54 2023 +0800
+
+    Delete checkpoint_three
+
+[33mcommit fad53081cff5f166da5e119203bb2114bc180d7b[m
+Merge: 0f0d24f 97ceb2b
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:07:01 2023 +0800
+
+    Merge branch 'checkpoint_three_group'
+
+[33mcommit 97ceb2b7d3740ba832032df9eca447550f28ced2[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:06:51 2023 +0800
+
+    Added checkpoint_three instruction
+
+[33mcommit 0f0d24fcbba4135ffe27dce171d21e9265e65fae[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 23:02:05 2023 +0800
+
+    added instructions on checkpoint_one and added checkpoint_two
+
+[33mcommit f74951773cb9812de5e6a2b1bbea1f9976e049a3[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 22:43:54 2023 +0800
+
+    added instructions on checkpoint_one
+
+[33mcommit 44520d8dee1ddec7787470c942a6328381cbecae[m
+Author: isdevop1 <lourdes.mendoza@benilde.edu.ph>
+Date:   Sun Feb 26 22:39:59 2023 +0800
+
+    Deleted all other checkpoints
+
+[33mcommit f35cf835d55d01982db14444f3c8c25de1987f39[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 21:47:52 2023 +0800
+
+    Update checkpoint_one
+
+[33mcommit 12a9a6ac91dec990025350728c40cec5e8a48ba6[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:26:21 2023 +0800
+
+    Create checkpoint_six
+
+[33mcommit defdfdd538c0612f38323e25c641311ff5833d0e[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:25:54 2023 +0800
+
+    Create checkpoint_five
+
+[33mcommit 96066c3436f90131f88bbbcc95e50529662f1602[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:25:16 2023 +0800
+
+    Create checkpoint_four
+
+[33mcommit fd35584ba5bb73b5216ba17c567cbd008b10f823[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:24:50 2023 +0800
+
+    Create checkpoint_three
+
+[33mcommit 686fb731f1c4ccd60ff3de7b64c1f9292bba2054[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:23:52 2023 +0800
+
+    Create checkpoint_two
+
+[33mcommit b59a11c07a2204b6533e8cd4aada82e5faa9f7d7[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:19:15 2023 +0800
+
+    Create checkpoint_one
+
+[33mcommit ffa8c1a717bea9870f60e798c96bd3a04b65e5bc[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:07:17 2023 +0800
+
+    Update README.md
+
+[33mcommit 123ff033204bdf0dd7e4c475e4d0b392f7000820[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:06:34 2023 +0800
+
+    Update README.md
+
+[33mcommit 186bd4ef824c4516016361f04ccc1fa3e0a4a726[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:05:47 2023 +0800
+
+    Updated README.md, changed markdown symbol # to asterisk
+
+[33mcommit 72998b7d795af89e781b7d7434ec05125920fbb4[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 26 15:04:15 2023 +0800
+
+    Updated README.md
+
+[33mcommit e3e8168b634dcc6b4247617a50f971f44fe0b499[m
+Author: isdevop <99861635+isdevop1@users.noreply.github.com>
+Date:   Sun Feb 19 00:23:45 2023 +0800
+
+    Initial commit
