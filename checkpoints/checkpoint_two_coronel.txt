@@ -1,0 +1,26 @@
+1. In your own words, do you think, we really need DevOps?
+
+     Yes, I believe that DevOps is needed to provide a smoother flow and transition between 
+   the development team and operations team. The DevOps process would overall cater to the needs of 
+   both teams and provide better communication and collaboration. The needs of customers would also 
+   be addressed easily and allow both teams to continuously integrate, deliver and deploy a system.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+   > CI - Continuous Integration is the process in which developers integrate code changes into a shared
+   repository as often as possible to locate and eliminate software defects at an early stage.
+
+   > CD - Continuous Delivery is the process of automating release deployment; although, deployment to production
+   is done manually.
+
+   > CD - Continuous Deployment is the process where uploaded code changes are automatically deployed to the production
+   environment. Unlike, Continuous Delivery, the changes are immediately visible to the users.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+
+   I think that using the different software development/integration tools may be a challenge for some developers. 
+   It may be possible that new developers are not that familiar with the tools which may cause them to accidentally
+   push unnecessary changes that may already affect the overall quality of the system. It must be made sure then that
+   proper onboarding be done to all developers to prevent complications like this. Administrative policies should also
+   be properly ensured to allow only authorized users or developers to accept changes (pull requests) from other developers
+   into the system.
