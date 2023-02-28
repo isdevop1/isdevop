@@ -1,0 +1,37 @@
+# Test Script for Adding the Subject, the Room, and the Schedule and assigning these items together (ISDEVOPS - G306A - 1240H to 1415H)
+
+- Test 1: Verify Subject Availability
+
+1. Log in to the Enrollment System
+2. Navigate to the list of subjects available for enrollment
+3. Verify that the subject (ISDEVOPS - G306A - 1240H to 1415H) is not yet available for students to enroll in
+
+- Test 2: Add Subject
+
+4. Click on the "add subject" button
+5. Type the name of the subject in the text box that will be available in. For this case, ISDEVOPS
+6. Select from the options the section that will be available. For this case, G306A
+7. Select from the options the time that will be available. For this case, 1240H to 1415H
+8. Click confirm
+9. Verify the confirmation message is displayed
+10. Confirm the added subject
+11. Navigate to the list of available subjects
+12. Confrm that the item (ISDEVOPS - G306A - 1240H to 1415H) is available
+
+- Test 3: Verify that the subject can be enrolled in
+
+13. Log in to the Enrollment system as a student
+14. Click on the "enroll subject" button
+15. Select the subject (ISDEVOPS - G306A - 1240H to 1415H)
+16. Click confirm
+17. Verify that a confirmation message is displayed
+18. Confirm the enrollment
+19. Navigate to the list of enrolled subjects
+20. Verify that the subject (ISDEVOPS - G306A - 1240H to 1415H) is now enrolled
+
+- Test 4: Verify the list of subjects Enrolled
+
+21. Log in to the Enrollment system
+22. Navigate to the list of subjects enrolled
+23. Verify that the subject (ISDEVOPS - G306A - 1240H to 1415H) is enrolled
+
