@@ -1,6 +1,0 @@
-1. In your own words, do you think, we really need DevOps?	
-	DevOps is essential as it not only helps reduce the work for developers, but it also allows the clients to have the latest working version of the software.
-2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
-	The three components differ in the level of maturity in automation where in CI has the lowest level and CD (conitnuous deployment) has the highest level with full automation.
-3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
-	One of the most challenging part of observing the DevOps framework is the introduction of new tools and how to use this as would require time before people can learn how to use these tools, especially if there are technical components to it. 
