@@ -1,0 +1,26 @@
+Test script for Adding Item Count
+Test 1: Add an item quantity
+1. Click on inventory items
+2. Choose and click on an item
+3. Click on add quantity
+4. Input a number to be added 
+5. Should show notification for the quantity added
+
+Test 2: Calculating the total number of inventory items
+1. Click on inventory items
+2. Click on Item Count
+3. It should show the new total number of inventory items as reflected from test 1
+
+
+Test script for Subtracting Item Count
+Test 1: Subtract an item quantity
+1. Click on inventory items
+2. Choose and click on an item
+3. Click on subtract quantity
+4. Input a number to be subtracted
+5. Should show notification for the quantity subtracted
+
+Test 2: Calculating the total number of inventory items
+1. Click on inventory items
+2. Click on Item Count
+3. It should show the new total number of inventory items as reflected from test 1
