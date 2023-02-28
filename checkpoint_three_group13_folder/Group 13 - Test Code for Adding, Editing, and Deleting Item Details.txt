@@ -1,0 +1,43 @@
+Test Script for Adding Item Details
+Test 1: Left a required field blank
+1. Go to Inventory Tab
+2. Click Add Item 
+3. Leave one required field blank
+4. Message prompt will inform me that I should fill up all required fields
+
+Test 2: Fill up all required fields
+1. Go to Inventory Tab
+2. Click Add Item
+3. Input all information in the all the required fields
+4. Item Detail Added
+
+Test Script for Editing Item Details
+Test 1: Exceed description character limit
+1. Input description of the item in more than 225 characters
+2. Inputting of inventroy details stopped or was cut
+3. Message prompt that character should not exceed to 225 characters
+
+Test 2: Input description within the character limit and not changes not saved
+1. Input description of the item in less than 225 characters
+2. Description of item was accepted
+3. Close editing tab without saving
+4. Message prompt that says no changes happened
+
+Test 3: Input description within the character limit and changes are saved
+1. Input description of the item in less than 225 characters
+2. Description of item was accepted
+3. Click on save button
+4. Message prompt that says changes are saved
+
+Test Script for Deleting Item Details
+Test 1: Deleting item description 
+1. Go to Inventory
+2. Click Item
+3. Delete the description of the inventory
+4. "No description" will be shown on the screen
+
+
+
+
+
+
