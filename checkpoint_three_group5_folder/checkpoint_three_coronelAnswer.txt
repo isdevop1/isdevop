@@ -1,0 +1,76 @@
+Pseduo Test Code for Registration, Login and Logout
+
+REGISTRATION
+
+- Email field: input type = email, placeholder: "example@email.com"
+- First Name fied: input type = string, placeholder: "Juan"
+- Last Name field: input type = string, placeholder: "Dela Cruz"
+- Password field: input type = password, placeholder: "Password"
+- Register submit: value: "Register", default state, disabled
+
+##Registration Flow Logic
+
+##Email field
+IF email is blank
+   print error message "Please enter an email address."
+ELSE IF email is not valid
+   print error message "Please enter a valid email address."
+
+##First Name field
+IF first name is blank
+   print error message "Please enter your first name."
+
+##Last Name field
+IF last name is blank
+   print error message "Please enter your last name."
+
+##Password field
+IF password is blank
+   print error message "Please enter a password."
+ELSE IF password is not strong
+   print error message "Please enter a strong password with 6 or more alphanumeric characters."
+
+IF all fields contain correct values
+   Enable Register Submit
+
+---
+
+LOGIN
+
+- Email field: input type = email, placeholder: "Email"
+- Password field: input type = password, placeholder: "Password"
+- Login submit: value: "Login", default state, enabled
+
+##Login Flow Logic
+
+##Email field 
+IF email does not match existing emails in the system
+   print error message "Email does not exist. Kindly register."
+
+##Password field
+IF password is incorrect given existing email
+   print error message "Incorrect password. Please try again."
+
+IF email and password match
+   Login to system
+
+---
+
+LOGOUT
+
+- Logout button: value: "Logout"
+- Pop-up YES button: value: "Yes"
+- Pop-up NO button: value: "No"
+
+##Logout Flow Logic
+
+Click on Logout button
+
+Display pop-up "Are you sure you want to logout?"
+
+IF no
+   Continue session
+ELSE IF yes
+   Logout of system
+   
+	
