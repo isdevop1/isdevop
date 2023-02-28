@@ -1,0 +1,12 @@
+1. In your own words, do you think, we really need DevOps?
+   The need for DevOps will purely depend on the needs of the business. For example, if a business operates with a model that does not
+   require frequently updated software to meet customer demand, DevOps might not be needed. For larger organizations on the other hand, 
+   DevOps may be an essential tool to help keep up with competitors and demand.  
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+   Continuous integration - Testing automation to ensure that the application is not broken whenever new commits are made to the main 
+   branch
+   Continuous Delivery - Automated release process which can deploy an application any time by clicking a button
+   Continuous Deployment Every change that is made is released directly to the customers 
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+   The most challenging part of DevOps is first considering if it is really needed by the business and, if they would have the right tools
+   and be able to adjust to support the process
