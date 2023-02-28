@@ -1,0 +1,30 @@
+Test script for Search
+Test 1: Partial item name or id search
+1. Click on search bar
+2. Input partial item name or id
+3. It should show first 5 related results via dropdown, showing item name with item id under it
+
+Test 2: Full item name search
+1. Click on search bar
+2. Input full item name
+3. Should show item/s option via dropdown, showing item name with item id under it
+
+Test 2: Full item id search
+1. Click on search bar
+2. Input full item id
+3. Should show item/s option via dropdown, showing item name with item id under it
+
+
+Test script for Filtering
+Test 1: Selecting a filter
+1. Click on filter dropdown
+2. Select prefered filter
+3. Should adjust item table, showing results related to selected filter
+
+
+Test script for Report
+Test 1: Generating Report
+1. Click on Reports tab
+2. Select date range for report start and end date
+3. Click "Generate Report" button
+4. Should generate separate file containing report
