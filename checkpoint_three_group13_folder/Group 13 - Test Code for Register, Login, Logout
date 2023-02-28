@@ -1,0 +1,46 @@
+Test Script for Registration
+Test 1: Missing required field
+1. Open the inventory system
+2. Click register
+3. Fill up the fields but leave one field blank
+4. It should post a warning that a field is blank and not push through the registration
+
+Test 2: All fields filled up
+1. Open the inventory system
+2. Click register
+3. Fill up all the fields
+4. The registration should push through and be redirected to the login page
+
+Test Script for Login
+Test 1: Logging in with incorrect USER ID
+1. Open the inventory system
+2. Click login
+3. Fill up USER ID field incorrectly
+4. Fill up PASSWORD correctly
+5. Click the login button
+6. The system should prompt USER ID and PASSWORD does not match
+7. The system should require the user to input login credentials again
+
+Test 2: Logging in with incorrect PASSWORD
+1. Open the inventory system
+2. Click login
+3. Fill up USER ID field correctly
+4. Fill up PASSWORD incorrectly
+5. Click the login button
+6. The system should prompt wrong password inputted
+7. The system should require the user to input the password again
+
+Test 3: Logging in with correct credentials
+1. Open the inventory system
+2. Click login
+3. Fill up USER ID field correctly
+4. Fill up PASSWORD correctly
+5. Click the login button
+6. The system should redirect the user to the homepage
+
+Test Script for Logout
+Test 1: Logging out
+1. The user clicks on the logout button
+2. The user is logged out of the system
+
+
