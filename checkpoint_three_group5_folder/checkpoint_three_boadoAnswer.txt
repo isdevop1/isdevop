@@ -1,0 +1,41 @@
+Pseduo Test Code for Adding the Subject, the Room, and the Schedule and assigning these items together
+
+ADDING SUBJECT/ROOM/SCHEDULE
+
+- Subject field: input type = string, placeholder: "ISDEVOPSEXAMPLE"
+- Room field: input type = string, placeholder: "ROOMG306A"
+- ScheduleStart field: input type = string, placeholder: "1240H"
+- ScheduleEnd field: input type = string, placeholder: "1415H"
+
+##Enrollment Flow Logic
+
+##Subject field
+IF subject field is blank
+	print error message "Please enter a subject code"
+ELSE IF subject field is not valid
+	print error message "Please enter a valid subject code"
+
+##Room field
+IF room field is blank
+	print error message "Please enter a room code"
+ELSE IF room field is not valid
+	print error message "Please enter a valid room code"
+
+##ScheduleStart field
+IF schedulestart field is blank
+	print error message "Please enter a schedule"
+ELSE IF schedulestart field is not valid
+	print error message "Please enter a valid schedule"
+ELSE IF schedulestart field is later than scheduleend field
+	print error message "Please enter a valid schedule"
+
+##ScheduleEnd field
+IF scheduleend field is blank
+	print error message "Please enter a schedule"
+ELSE IF scheduleend field is not valid
+	print error message "Please enter a valid schedule"
+ELSE IF scheduleend field is earlier than schedulestart field
+	print error message "Please enter a valid schedule"
+
+IF all fields contain correct values
+   Enable Confirm Enrollment and assign fields together
