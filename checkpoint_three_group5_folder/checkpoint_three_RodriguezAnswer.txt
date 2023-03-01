@@ -1,0 +1,22 @@
+// Pseudocode for Function X
+// Function X is used to search the enrollment database for courses and subjects offered for the current term
+// Author: Ziv Rodriguez
+// March 1, 2023
+Variables:
+
+- searchKey: input type = String
+- searchButton: value "Search"
+
+// Search Logic
+
+IF searchKey is blank
+	print error message "Please enter a course code or course name"
+
+IF searchKey is not blank
+	call linearSearch
+	IF linearSearch returns 0 cases
+		print error message "Course either does not exist or is not currently offered"
+	else
+		print all available courses that match searchKey into a table
+
+
