@@ -1,0 +1,37 @@
+// Pseudocode for Function Y
+// Function Y mimics a generic online payment processing of an enrollment system.
+// Author: Carlo Antonio Batac
+// March 1, 2023
+
+FUNCTION Y (Payment Processing)
+
+Variable/s
+- studentId field: input type = String, placeholder: "Student ID"
+- creditCardNo field: input type = Long, placeholder: "Credit Card Number"
+- cvv field: input type = String, placeholder: "CVV"
+- payNow submit: value: "Pay", default state, disabled
+
+##Payment Processing Flow Logic
+
+##Student ID field
+IF studentId is blank
+	print error message "Please input a student ID"
+ELSE IF studentid is invalid
+	print error message "Please input a VALID student ID"
+
+
+##Credit Card Number field
+IF creditCardNo is blank
+	print error message "Please input a credit card number"
+ELSE IF creditCardNo is invalid
+	print error message "Please input a VALID credit card number"
+
+##CVV field
+IF cvv is blank
+	print error message "Please input a CVV"
+ELSE IF cvv is invalid
+	print error message "Please input a VALID CVV"
+
+
+IF all fields contain correct values
+	Enable payNow Submit	
