@@ -1,0 +1,6 @@
+Name: Gabriel Catacutan
+Favorite Movie: Whiplash
+Favorite Band: Gorillaz
+Favorite Song: Feel Good Inc
+Then lastly, complete the sentence:
+        Git is: Scary
