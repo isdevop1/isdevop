@@ -1,0 +1,7 @@
+1.I think devops is important because it creates a structure on which the different departments are now more focused and direct on the main goal of the organization which eventually eliminates silos.
+
+2. Continuous Integration - It is the frequent merging of the changes in the main branch.
+Continuous Delivery - It is when deploying the software at any time as long as it will suit the requirements of the business.
+Continuous Deployment - In this component, you release to your customers every update that successfully completes all production phases.
+
+3. I think the only part that is challenging in devops is the integration. Not particularly on the method of integrating the works but what if the two works are not compatible. If some miscommunication happens in the development stage, this can cause problems onto the succeeding stages especially in the integration. With this, it can cause the work to be repeated so that it can be properly merged into each other.
