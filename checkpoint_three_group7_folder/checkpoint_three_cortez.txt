@@ -1,0 +1,58 @@
+﻿*********************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 3
+*     Objective: GitKraken and Branching
+*     
+*     Author: Carlo Cortez
+*     Date: March 02, 2023
+*     
+*********************************************************
+
+# Test Script for Item (Edit/Replace Item Brand, Item Enabled/Disabled Property)
+
+
+Test 1: Replace Item Brand
+
+
+Test 1.1: Complete Input for All Fields
+1. Sign in to the system
+2. Open the inventory link
+3. Click on Item ID #0001 from the item list
+4. Press edit and click on item brand
+5. Input “Nestle” in text field of item brand
+6. Click the confirm button to save changes
+7. Verify if Item ID #0001 has brand of “Nestle”
+
+
+Test 1.2:  Missing Item Brand Field
+1. Sign in to the system
+2. Open the inventory link
+3. Click on Item ID #0001 from the item list
+4. Press edit and click on item brand
+5. Remove input from text field
+6. Click the confirm button to save changes
+7. Verify if the program sent a warning that there is a missing field
+
+
+Test 2: 
+
+
+Test 2.1 Save Disabled Item
+1. Sign in to the system
+2. Open the inventory link
+3. Click on Item ID #0001 from the item list
+4. Click on toggle switch button (Enabled) to disable the Item
+5. Click the confirm button
+6. Click “Ok” to save changes
+7. Verify if Item ID #0001 has status of “disabled”
+
+
+Test 2.2 Unsaved Disabled Item
+1. Sign in to the system
+2. Open the inventory link
+3. Click on Item ID #0001 from the item list
+4. Click on the toggle switch button (Enabled) to disable the Item
+5. Click the confirm button to save changes
+6. Click “Cancel” to save changes
+7. Verify if Item ID #0001 has status of “enabled”
