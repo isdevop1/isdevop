@@ -1,0 +1,32 @@
+*********************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 3
+*     Objective: GitKraken and Branching
+*     
+*     Author: Aedan Matienzo
+*     Date: March 02, 2023
+*     
+*********************************************************
+
+Pseudo Test Code for Function X (Searching of Available Sections for an offered course
+
+Variables:
+- String searchCourse					(input from user)
+- Array of String availableSections		(data from database)
+- Array of String availableCourses		(data from database)
+
+If (availableCourses contains searchCourse) {
+	print "[searchCourse] is offered this term"
+	
+	If (availableSections != null) {
+		print "[List availableSections] is offered for [searchCourse] this term"
+	}
+	Else {
+		print "There are no available sections for [searchCourse]."
+	}
+}
+
+Else {
+	print "[searchCourse] is not offered this term"
+}
