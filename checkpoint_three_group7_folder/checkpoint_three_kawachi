@@ -1,0 +1,15 @@
+#1 Testing Adding of Inventory Items
+1. Sign in to system (staff)
+2.1 Navigate to Inventory Page
+2.2 Go to Add Inventory Tab
+3. Select Item to Add
+4. Enter Quantity of item being added
+5. Submit the adding of Inventory
+
+#2 Testing Pulling of Inventory Items
+1. Sign in to system (staff)
+2.1 Navigate to Inventory Page
+2.2 Go to Pullout Inventory Tab
+3. Select Item to Pullout
+4. Enter Quantity of item being pulled out
+5. Submit the pulling out of Inventory
