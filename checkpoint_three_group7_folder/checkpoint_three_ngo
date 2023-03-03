@@ -1,0 +1,30 @@
+*********************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 3
+*     Objective: GitKraken and Branching
+*     
+*     Author: Nathan Ngo
+*     Date: March 03, 2023
+*     
+*********************************************************
+
+# Test Script for Item (Edit/Replace Item Brand, Item Enabled/Disabled Property)
+
+Test 1: Adding an Item
+1. Sign in to the system
+2. Open the inventory link
+3. Click the 'Add' button
+4. Input the item name
+5. Input the item's category
+6. Input the item's picture
+7. Click the 'Save' button'
+8. Click the 'Confirm' button
+
+Test 2: Removing an Item
+1. Sign in to the system
+2. Open the inventory link
+3. Search the item name
+4. Click the correct search result suggestion
+3. Click the 'Remove' button
+8. Click the 'Confirm' button
