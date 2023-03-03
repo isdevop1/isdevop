@@ -1,0 +1,19 @@
+Test script Inventory alert (low on items [based on minimum chuchu formula]), Remove/delete item
+
+Pseudo test code for
+
+Test for Inventory Alert:
+1. Add discrepancy/missing/spoiled entry
+2. Search Item
+3. Check inventory alert (alert should display "low on stock")
+4. Add Existing inventory
+5. Search Item
+6. Check inventory alert (alert should not be shown)
+
+Test for Remove item:
+1. Add New Item
+2. Search newly added item
+3. Remove item
+5. Go back to homepage or Refresh page
+6. Search Item
+7. Check if the item was deleted
