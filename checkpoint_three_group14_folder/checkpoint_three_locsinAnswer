@@ -1,0 +1,14 @@
+TEST1: Adding a subject, room and time
+1. Run Enrollment System
+2. Add Subject "ISSYSAD"
+3. Add Room "G405"
+4. Add Schedule "1100M to 1230M"
+5. Check if all data inputted was reflected based on the subject (ISSYSAD - G405 - 1100M to 1230M
+6. Check if added Subject, Room, and Schedule was assigned together
+
+TEST2: Adding another subject in the same room at the same time
+1. Add Subject "ISDEVOPS"
+2. Add Room "G405"
+3. Add Schedule "1100M to 1230M"
+4. Check if the system rejects new data
+5. Check if the new data was not reflected
