@@ -1,0 +1,23 @@
+# Initialize the inventory system with some sample data
+inventory = {'apples': 10, 'bananas': 5, 'oranges': 3}
+
+# Test removing stock from an item in the inventory
+x('apples', 5, inventory)
+if inventory['apples'] == 5:
+    print('Removing stock from apples in the inventory works!')
+else:
+    print('Removing stock from apples in the inventory failed.')
+
+# Test removing all stock from an item in the inventory
+x('bananas', 5, inventory)
+if 'bananas' not in inventory:
+    print('Removing all stock from bananas in the inventory works!')
+else:
+    print('Removing all stock from bananas in the inventory failed.')
+
+# Test removing more stock than available for an item in the inventory
+x('oranges', 5, inventory)
+if inventory['oranges'] == 0:
+    print('Removing more stock than available from oranges in the inventory works!')
+else:
+    print('Removing more stock than available from oranges in the inventory failed.')
