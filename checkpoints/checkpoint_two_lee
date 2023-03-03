@@ -1,0 +1,10 @@
+1. In your own words, do you think, we really need DevOps?
+	- Yes, DevOps is needed because it allows for collaboration and communication between development and operations teams, which can lead to faster software releases, better quality software, and improved customer satisfaction. By automating processes and using tools and technologies that support DevOps principles, organizations can reduce costs, increase efficiency, and be more responsive to changes in the market.
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+	- Continuous Integration (CI): the process of automatically building, testing, and integrating code changes into a shared repository on a regular basis. The goal of CI is to identify and fix problems as early as possible in the development process.
+
+	- Continuous Delivery (CD): the process of automatically deploying code changes to production or staging environments. The goal of CD is to ensure that software releases are reliable, repeatable, and can be performed at any time.
+
+	- Continuous Deployment (CD): the process of automatically deploying code changes to production environments. The goal of CD is to accelerate the delivery of new features and improvements to end users.
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	- With automated processes and frequent releases it is hard to keep track of changes quickly.
