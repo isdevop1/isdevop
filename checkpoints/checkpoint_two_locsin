@@ -1,0 +1,16 @@
+Name: Felipe Matteo D. Locsin
+	1. In your own words, do you think, we really need DevOps?
+		I feel like we do not need DevOps the way we need food and water to survive. I personally believe that DevOps is like
+		getting a newer, faster computer for work. It is an optional yet imperative upgrade to the silos your organization built.
+	2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+		Continuous Integration is about collaboration in code. This concept contains the idea of code from developers being
+		regularly integrated into a shared repository.
+
+		Continuous Delivery is about wrapping up said code into a unit that can be ready to be produced.
+
+		Continuous Deployment talks about the actual release of said code along with streamlined updates sent directly to the user
+		without the need for checking.
+	3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+		I feel like the hardest part is more of integrating into a DevOps framework. Change is always hard, especially for organizations
+		with big names and big productions. There is always a risk in changing the work ethic and lifestyle of an organization,
+		so it will always be a risk to move.
