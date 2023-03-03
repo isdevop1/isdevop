@@ -1,0 +1,19 @@
+1. Registration
+- Go to the registration page.
+- Enter a valid username, password, and confirmation password in the registration form.
+- Click the "Register" button.
+- Verify if the user is redirected to the login page.
+- Verify if the user's information is stored in the database.
+
+2. Login
+- Go to the login page.
+- Enter the correct username and password stored in the database.
+- Click the "Login" button.
+- Verify if the user is redirected to the home page.
+- Verify if the user is logged in when the username is displayed in the home page.
+
+3. Logout
+- Go to home page.
+- Click the "Logout" button.
+- Verify if the user is navigated to the login page.
+- Verify if the user is logged out by checking if the username is not on the home page.
