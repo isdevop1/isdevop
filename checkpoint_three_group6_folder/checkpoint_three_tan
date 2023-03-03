@@ -1,0 +1,41 @@
+Test Script for searching an item and inventory report for discrepancy/spoilage/missing, and current stock in an inventory system.
+
+Test for searching an item
+
+1. Launch the inventory system.
+2. Log in using valid credentials.
+3. Navigate to the search item page.
+4. Enter a valid item name in the search field.
+5. Click on the "Search" button.
+6. Verify that the search results display all items that match the search query.
+7. Verify that each item displayed in the search results contains the following information:
+	Item name
+	Item ID
+	Item category
+	Item description
+	Item quantity
+	Item price
+8. Verify that the search results are displayed in a logical and user-friendly format.
+9. Repeat steps 4-8 for different search queries:
+	a. A partial item name
+	b. A complete item name
+	c. A misspelled item name
+10. Attempt to search for an item that does not exist in the inventory system.
+11. Verify that the search results display an appropriate message indicating that the item was not found.
+12. Verify that the search functionality is responsive and does not cause any system errors or crashes.
+13. Log out of the inventory system.
+
+Test for inventory report for discrepancy/spoilage/missing, and current stock
+
+1. Login to the inventory system with valid credentials.
+2. Navigate to the Inventory report section.
+3. Verify that the inventory report options include Discrepancy/Missing/Spoilage and Current stock.
+4. Select the Discrepancy/Missing/Spoilage report option and click on the Generate button.
+5. Verify that the report accurately displays any discrepancies, missing items, or spoilage in the inventory.
+6. Select the Current stock report option and click on the Generate button.
+7. Verify that the report accurately displays the current stock levels of all products in the inventory.
+8. Verify that the report displays all necessary information, such as the name of the product, the SKU or UPC code, the location of the item, and the quantity in stock.
+9. Verify that the report is formatted in a clear and user-friendly manner, with easy-to-read charts or graphs that illustrate the current stock levels and any discrepancies or spoilage.
+10. Verify that the report can be customized to display different types of information, such as stock levels by location, by product type, or by supplier.
+11. Select the Export option and verify that the report can be exported in different formats, such as PDF or CSV, and that the exported file accurately reflects the information displayed in the report.
+12. Verify that the report can be integrated with other systems or software, such as accounting software or warehouse management systems, and that the data is accurately transferred between systems.
