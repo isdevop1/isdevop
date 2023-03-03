@@ -1,0 +1,19 @@
+Search Courses Test Cases
+
+Test 1
+1: click search bar
+2: Enter ITSYSAD in the Subject Code
+3: click search
+4: output seen will be the subject matching the entered subject code
+
+Test 2
+1: click search bar
+2: Enter 3564 in the class number
+3: click search
+4: output will be "no such course is offered"
+
+Test 3
+1: click search bar
+2: Enter ITNET02 in the subject code
+3: click search
+4: output will be "no such course is offered"
