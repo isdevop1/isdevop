@@ -1,0 +1,6 @@
+//This function adds stocks to the inventory
+Function AddStock(product, quantity):
+1.) Check if product exist in inventory
+2-a.) If product doesn't exist initialize product initialization
+2-b.) Continue
+3.) Add quantity to product quantity
