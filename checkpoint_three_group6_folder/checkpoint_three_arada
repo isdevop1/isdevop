@@ -1,0 +1,27 @@
+# Test Script for adding new item and adding existing item in the inventory system
+
+Test Case 1: Adding a new item
+
+1. Log in to the inventory system
+2. Navigate to the "Items" section
+3. Click on the "Add Item" button
+4. Enter a unique name for the item
+5. Select a category for the item from the drop-down menu
+6. Enter a description for the item
+7. Enter the price and quantity for the item
+8. Click on the "Save" button
+9. Verify that the new item is added to the list of items
+10. Verify that the item details are correct and match the entered information
+11. Repeat the above steps with different item names and categories
+
+Test Case 2: Adding an existing item
+
+1. Log in to the inventory system
+2. Navigate to the "Items" section
+3. Select an existing item from the list
+4. Click on the "Edit" button
+5. Update the details of the item, such as the price, quantity, or description
+6. Click on the "Save" button
+7. Verify that the updated item details are reflected in the list of items
+8. Verify that the updated item details are correct and match the entered information
+9. Repeat the above steps with different items to update their details.
