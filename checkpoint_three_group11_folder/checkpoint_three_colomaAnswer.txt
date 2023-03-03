@@ -1,0 +1,11 @@
+1. Initialize the inventory system
+2. Add a new product with name "T-Shirt", code "TS001", price 25.00, and quantity 50 to the inventory system
+3. Verify that the product was added successfully
+4. Add another product with name "Jeans", code "JN001", price 45.00, and quantity 30 to the inventory system
+5. Verify that the product was added successfully
+6. Attempt to add a new product with the same code "TS001"
+7. Verify that the system rejects the duplicate product code
+8. Attempt to add a new product with an invalid price (-10.00)
+9. Verify that the system rejects the product with invalid price
+10. Add a new product with name "Socks", code "SK001", price 5.00, and quantity 100 to the inventory system
+11. Verify that the product was added successfully
