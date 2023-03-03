@@ -1,0 +1,18 @@
+Registration:
+
+1. Open the registration webpage
+2. Fill up the necessary fields
+3. Click on Register button
+4.1. If all fields are filled out, webpage should display that user has been successfully registered.
+4.2. If there are fields that are not filled out, webpage should display that user failed to register.
+
+Login
+1. Open the registration webpage
+2. Fill up your correct username and password.
+3. Click on login button
+4.1 If user entered the correct credentials, Webpage should display that user has been successfully logged in.
+4.2. If user entered the wrong credentials, Webpage should display that user cannot log in.
+
+Logout
+1. Click on the logout button while you are logged in.
+2. User should be successfully logged out.
