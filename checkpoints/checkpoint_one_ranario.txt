@@ -1,0 +1,6 @@
+ Name: Christian Angelo U. Ranario
+    Favorite Movie: 3 Idiots
+    Favorite Band: Paramore
+    Favorite Song: The Day You Said Goodnight
+    Then lastly, complete the sentence:
+        Git is cool
