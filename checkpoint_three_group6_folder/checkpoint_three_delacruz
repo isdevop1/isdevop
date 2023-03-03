@@ -1,1 +1,25 @@
-PSEUDO
+Test Script for n Inventory System
+
+Pseudo test code for Registration, Login, and Logout:
+
+Test for Registration:
+1. Enter valid details (first name, last name, username, email, password)
+2. Submit the form
+3. Verify that registration is successful, login the user, and redirect to home page
+4. Test registration with invalid or missing inputs
+5. Verify that the appropriate error messages are displayed
+
+Test for Login:
+1. Enter valid login details/credentials (username, password)
+2. Submit the form
+3. Verify successful login and redirect user to home page
+4. Test login with invalid credentials
+5. Verify that the apporpiate error messages are displayed
+
+Test for Logout:
+1. Login as an existing user
+2. Select the logout button
+3. Verify that session is terminated
+4. Verify that the user is logged out and redirected to home page
+5. Access restricted pages thru url inputs
+6. Verify that user is denied access and will be redirected to login page
