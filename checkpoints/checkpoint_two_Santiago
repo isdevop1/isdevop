@@ -1,0 +1,6 @@
+1. In your own words, do you think, we really need DevOps?
+    - Yes, I genuinely believe we think DevOps because working in silos is inefficient and DevOps fixes this issue. It helps teams work on projects together.
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+    - Continuous Integration ensures that code changes are integrated and tested frequently, Continuous Delivery automates the process of building and deploying code changes, and Continuous Deployment takes it a step further by automating the deployment of code changes to production.
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+    - The most challenging part of DevOps is synching the your pace with your groupmates. If your teammates are faster or slower, you have to adjust your pace to them. Another challenge at the moment is memorizing the commands for git. However, it is getting easier and easier when you do more practice.
