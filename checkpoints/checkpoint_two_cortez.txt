@@ -20,3 +20,5 @@ Continuous Deployment - Combines both mentioned previous forms and releases the 
 From my experience, I think the challenging part is adjusting to the tools used for each phase in the framework, 
 especially Git, and whether we could follow the continuous cycle if we already have problems starting from the 
 code integration part, which would need some practice and adjustments once we get used to the software.
+
+// Peer reviewed by lmendoza on 03/04/2023
