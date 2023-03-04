@@ -1,0 +1,12 @@
+1. In your own words, do you think we really need DevOps?
+Yes. With the advancements we have been experiencing with technology and how automation has become a huge part in it, it is definitely needed in this type of environment to work efficiently and effectively. 
+
+2. Kindly differentiate the three components of DevOps: CI, CD and CD.
+Continuous Integration (CI) is a practice that individuals should integrate their own edited source code to the existing repository as often as possible, as long as there are significant changes within the code. It allows for all developers to identify the problems that the team may encounter at an earlier stage of software development. 
+
+Continuous Delivery (CD) is said to be an extension of continuous integration, which the development team handling the source code is able to release their project to production at any given time as they see fit. 
+
+Continuous Deployment (CD) uses both continuous integration and continuous delivery in which it releases the software/project AS SOON AS there are changes made by the development team or a developer. This means that it is automatically pushed to the production environment, unlike in continuous delivery.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+I would say it is understanding how the team works and cooperates around you. The framework or methodology is simple enough for the most part, so in my experience, collaboration is still one of the most challenging parts of DevOps. For example, we have a shared repository for a project in one of our classes and as of now, it still has only the master branch. Instead of trying to fix the Git repository’s settings, the group has opted to work on it individually then publish the compressed zip file to Discord or any other medium. This confused us a lot, but we will definitely work on our Git the next time we are asked of a project.
