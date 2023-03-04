@@ -1,0 +1,35 @@
+**********************************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 3
+*     Objective: Group Performance Task
+*     
+*     Author: Lourdes Mendoza
+*     Date: February 25, 2023
+*     
+**********************************************************************
+
+Pseudo test code for Adding the Subject, the Room, and the Schedule and assigning these items together (ISDEVOPS - G306A - 1240H to 1415H) - Enrollment System
+
+Test Case for Adding the Subject:
+1: Click search bar.
+2: Enter course code (ISDEVOPS).
+3: Click search.
+4: Availability of the subject and schedule will appear.
+5: Add the class number to AnimoSys (2650).
+6: Click save.
+
+Test Case for searching Room:
+1: Click search bar.
+2: Enter room number (G306A).
+3: Click search.
+4: The room is available.
+5: Add the class number to AnimoSys (2650).
+6: Click save.
+
+Test Case for viewing Schedule:
+1: Go to AnimoSys site.
+2: Click Self ervice.
+3: Click Enrollment.
+4: Click My Weekly Schedule.
+5: The class schedule will appear with the subject, room, and time (ISDEVOPS - G306A - 1240H TO 1415H).
