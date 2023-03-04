@@ -2,4 +2,7 @@
 2. CI, which stands for Continuous integration, where developers integrate code changes continuously and as often as possible. 
    Continuous Delivery automatically pulls commits through the pipeline. It includes the automated build and test steps of the continuous integration, and also includes fully automated release deployment. 
    Lastly, in Continuous Development, product functionalities are delivered using automatic deployment. There is no human intervention, and code changes are released automatically as soon as the developer makes changes.
-3. For me, it would be the difficulty and challenges after transitioning to DevOps. Team members might still be slowly adapting, and it will take a while for them to get ready. Aside from this, lack of communication might also be a challenge. DevOps heavily requires communication between the development and operations team, and when they aren't able to communicate well, it might lead to problems. 
+3. For me, it would be the difficulty and challenges after transitioning to DevOps. Team members might still be slowly adapting, and it will take a while for them to get ready. Aside from this, lack of communication might also be a challenge. DevOps heavily requires communication between the development and operations team, and when they aren't able to communicate well, it might lead to problems.
+
+
+// Peer reviewed by lmendoza on 03/04/2023 
