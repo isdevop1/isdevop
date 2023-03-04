@@ -4,3 +4,6 @@
 	The three components differ in the level of maturity in automation where in CI has the lowest level and CD (conitnuous deployment) has the highest level with full automation.
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 	One of the most challenging part of observing the DevOps framework is the introduction of new tools and how to use this as would require time before people can learn how to use these tools, especially if there are technical components to it. 
+
+
+// Peer reviewed by lmendoza on 03/04/2023
