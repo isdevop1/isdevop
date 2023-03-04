@@ -5,3 +5,6 @@ Continuous Delivery - It is when deploying the software at any time as long as i
 Continuous Deployment - In this component, you release to your customers every update that successfully completes all production phases.
 
 3. I think the only part that is challenging in devops is the integration. Not particularly on the method of integrating the works but what if the two works are not compatible. If some miscommunication happens in the development stage, this can cause problems onto the succeeding stages especially in the integration. With this, it can cause the work to be repeated so that it can be properly merged into each other.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
