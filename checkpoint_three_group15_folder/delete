@@ -1,6 +1,0 @@
-Delete
-- ask user which item does the user want to delete
-- ask for user input on how many items does the user want to delete
-- fetch the id of the item
-- get the current quantity of the item
-- based on how many items the user entered, deduct the number of items to the quantity
