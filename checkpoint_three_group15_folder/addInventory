@@ -1,0 +1,11 @@
+1. Start
+2. Input the item to be added and its quantity
+3. Check if the input is valid (e.g. the quantity is a positive integer)
+4. If the input is invalid, display an error message and go back to step 2
+5. Check if the item already exists in the inventory
+6. If it does, add the quantity to the existing quantity of the item
+7. If it doesn't, add the item and its quantity to the inventory
+8. Display a message confirming that the item has been added to the inventory
+9. Display the updated inventory
+10. End
+
