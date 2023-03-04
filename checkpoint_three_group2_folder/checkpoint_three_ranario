@@ -1,0 +1,32 @@
+*********************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 3
+*     Objective: GitKraken and Branching
+*     
+*     Author: Christian Angelo Ranario
+*     Date: March 03, 2023
+#include <stdio.h>
+#include "enrollment_system.h" // Include the header file that contains the declarations of the functions and data types.
+
+void test_function_y() {
+    // Create a new student and subject
+    Student student = create_student("Christian", "Ranario", "ChristianRanario123");
+    Subject subject = create_subject("Programming", "PROG101", "Kobe James");
+
+    // Add the subject to the student's schedule
+    add_subject_to_schedule(&student, &subject);
+
+    // Verify that the subject is in the student's schedule
+    if (is_subject_in_schedule(&student, &subject)) {
+        printf("Test passed.\n");
+    } else {
+        printf("Test failed.\n");
+    }
+}
+
+int main() {
+    test_function_y();
+
+    return 0;
+}
