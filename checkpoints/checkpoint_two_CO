@@ -12,3 +12,6 @@
 1. Yes, DevOps aids businesses in accelerating the delivery of software while also enhancing its quality, reliability, and security. Also, it encourages interaction and communication between the development and operations teams, which results in superior judgment and more efficient problem-solving.  
 2. Continuous Interation is updating the code as often as possible. Continuos Delivery is the continuation of CI, It delivers the code CI provides. Continuos Deployment means that the code has already been released to the public and that changes that are made is reflected already to the user.
 3. The most challenging part for me is using Github.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
