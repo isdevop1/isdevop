@@ -10,3 +10,5 @@
 
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 - For me the most challenging part in DevOps framework is adjusting to DevOps, We've been using the traditional method in where I got used to doing. Learning new skills and using new tools to implement projects was hard to adjust to. 
+
+// Peer reviewed by lmendoza on 03/04/2023
