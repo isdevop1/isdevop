@@ -13,3 +13,6 @@ Continuous Deployment goes further, automating the actual deployment of code cha
 I think that the most challenging part of observing the DevOps framework is the Cultural change or shift that organizations have to undergo, 
 which can be difficult to achieve. It involves breaking down silos between teams, promoting collaboration, and prioritizing shared goals. 
 Resistance to change can be a significant hurdle, especially in large organizations.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
