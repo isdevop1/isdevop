@@ -2,3 +2,6 @@ Favorite Movie: Spiderman: Into the Spider-verse 
 Favorite Band: Coldplay
 Favorite Song: Shiver
 Git is: a version control system that helps users manage and update files into the server.
+
+
+// Peer reviewed by lmendoza on 03/04/2023

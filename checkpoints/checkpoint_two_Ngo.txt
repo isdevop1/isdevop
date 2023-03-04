@@ -6,3 +6,7 @@ CD (Continuous Delivery) - the practice of automatically deploying code changes 
 CD (Continuous Deployment) - the practice of automatically deploying code changes to production after they have been tested and approved in a staging environment.
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 I believe the most challenging part based on my experience so far, is currently in the Continuous Integration phase of the framework such that I have not memorized all the git commands.
+
+
+
+// Peer reviewed by lmendoza on 03/04/2023
