@@ -3,4 +3,9 @@ Favorite Movie: Everything Everywhere All at Once
 Favorite Band: Panic! At the Disco (they recently disbanded :< )
 Favorite Song: Sunflower by Post Malone and Swae Lee
 Git is a programmer's best friend (if the commit doesn't ruin the code)
+// Hehe! That's why we use Git, so that the programmer's code is protected and versioned :D
+
+
+// Peer reviewed by lmendoza on 03/04/2023
+
 
