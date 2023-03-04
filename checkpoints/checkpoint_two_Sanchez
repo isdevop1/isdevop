@@ -12,3 +12,6 @@
 1. DevOps is necessary because it helps produce quality and faster delivery of services and products to customers by creating a framework where the Development Team and Operations Team can work together more coordinately outside of their silos. 
 2. Continuous Integration is where developers updated their code as oftern as possible in their shared repository, Continuous Delivery is a staging branch where progress is brought to the development envirnoment while Coninuous Delployment is where the progress is brought to the production environment. The other big difference between the two CD is the maturity of automation.
 3. Based from my personal experinece so far the most challening part of the DevOps framework is learning ang getting used to the tools used like GitHub.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
