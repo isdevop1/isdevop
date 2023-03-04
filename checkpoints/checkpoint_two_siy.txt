@@ -6,3 +6,5 @@ CI stands for continuous integration, a fundamental DevOps best practice where d
 
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 It is the implementation of the different toolkits between development and operations teams. Identifying and synchronizing any difference between the two is the most significant part of making everything work properly.
+
+// Peer reviewed by lmendoza on 03/04/2023
