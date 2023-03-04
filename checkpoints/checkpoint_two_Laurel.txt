@@ -13,3 +13,6 @@
 	3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 	
 	I think it might just be getting used to the framework. Git itself isnt that hard but what may be challenging is getting used to it
+
+
+// Peer reviewed by lmendoza on 03/04/2023
