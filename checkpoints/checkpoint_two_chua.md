@@ -24,3 +24,6 @@
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
     It might be the fact that I am not much familiar with the tools being used in the DevOps framework. 
     Being new to the framework and its tools, it might take a while for me to be able to be used to the tools of the framework.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
