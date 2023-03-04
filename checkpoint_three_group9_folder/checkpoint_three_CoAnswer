@@ -1,0 +1,19 @@
+**********************************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Git Checkpoint 3
+*     Objective: Group Performance Task 
+*     
+*     Author: Keith Nicolaj Yam Co
+*     Date: March 03, 2023
+*     
+**********************************************************************
+
+PSEUDO TEST CASE FOR DELETING IN INVENTORY
+
+1. Initialize the itemFound (boolean) = false and index variable to zero.
+2. Use a while loop to search for the item position in the inventory array. 
+3. If found, set itemFound to true and exit the loop.
+4. If the item was found, remove it from the inventory array.
+5. Return true to indicate the item was successfully deleted.
+6. Return false to indicate the item was not found in the inventory.
