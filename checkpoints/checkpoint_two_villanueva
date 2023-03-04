@@ -20,3 +20,6 @@ Continues Integration is the phase of devops in which developers regularly merge
 The most challenging part I would think of is managing your repository with different teams. It should be well planned as even tho you have a repository that teams could collaborate with. It could lead to clashing of code or unability to merge due to merge conflicts
 
 //NOTE: Kindly follow coding/scripting best practice when doing the activity
+
+
+// Peer reviewed by lmendoza on 03/04/2023
