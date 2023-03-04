@@ -5,3 +5,5 @@ CD - Produce software as fast as possible.
 CD - Continuous deployment make changes to the deployed software for it to be ready for the users.
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 The most challenging part is being exposed to different tools that are unfamiliar.
+
+// Peer reviewed by lmendoza on 03/04/2023
