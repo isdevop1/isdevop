@@ -10,3 +10,6 @@ Continuous Deployment is the process of automatically deploying all changes to p
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 So far, I have no experience with DevOps, but I think the most challenging part of observing DevOps is adopting and integrating new tools. A team must overcome the adoption problem of selecting several tools for development, testing, and deployment to guarantee they all function together to utilize DevOps properly. These solutions must fulfill security standards and be simple to integrate with your infrastructure, so choosing the right one can be extremely difficult. Also, everyone needs to be well-trained on the new set of tools to ensure that production is not affected.
 
+
+
+// Peer reviewed by lmendoza on 03/04/2023
