@@ -1,0 +1,13 @@
+1. In your own words, do you think, we really need DevOps?
+	- We definitely do because projects developed are outputs of which cannot truly be judged and valued by the developers but rather
+	the memebrs who would have to utilize/intigrate them into their business processed thus making it ideal and efficient they be highly involved 
+	during the process.
+
+2. Kindly differentiate the three components of DevOps: CI, CD and CD.
+	CI - Is the practice of constantly merging changes then validating it against automated tests.
+	CD (Delivery) - Improves on CI by automating the merging step through deployment into a testing environment.
+	CD (Deploymeny) - Improves on CD (Delivery) by deploying validated changes directly to the customer with no human intervention.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	- Building the automated tests. Since the goal of DevOps is high velocity it would be detrimental that any automated test applied is actually
+	capable and valid otherwise this could result in more issues that would have to be resolved, thus slowing down performance.
