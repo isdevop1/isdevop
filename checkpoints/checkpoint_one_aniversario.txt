@@ -19,3 +19,6 @@ For this activity, kindly do the following
         Git is: a metal door you open before you enter your house, a git (gate) hehe jk! Git is a collaboration tool used by developer with small to large projects.
 
 5. Push everything to our isdevops_activit1 branch 
+
+
+// Peer reviewed by lmendoza on 03/04/2023

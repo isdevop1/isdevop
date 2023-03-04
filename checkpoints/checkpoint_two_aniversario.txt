@@ -6,3 +6,6 @@
 	- Continuous Deployement (CD) is the final stage wherein the application can be put into production. 
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 	- Based on my observation, the cultural shift to DevOps is the most challenging. It's common knowledge that we do not like change simple because we want to work with was given or what we are used to do. Shifting to DevOps is a big step specially that development teams and operatios teams are mostly separated and would want to work on their own. 
+
+
+// Peer reviewed by lmendoza on 03/04/2023
