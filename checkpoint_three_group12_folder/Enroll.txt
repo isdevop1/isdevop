@@ -1,0 +1,16 @@
+Pseduo Test script for enrolling subjects
+
+function enterValidSubject {
+	- enter "IS" as the subject code
+	- * search results should display all offered course that begin with "IS" *
+	- locate "ISDEVOP" in the search results
+	- click ISDEVOP search result
+	- proceed to step 2 to enroll course
+}
+
+function enterInvalidSubject {
+	- enter different variances of wrong inputs (too many letters, non existing code, enter nothing)
+	- begin search
+	- * warning should appear that indicates what went wrong *
+
+}
