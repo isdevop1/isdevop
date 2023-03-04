@@ -15,3 +15,6 @@
 	For me, I think the most challenging of observing DevOps framework is it can be difficult to develop and maintain a unified DevOps strategy across the organization,  as it 
 	involves multiple teams and various tools. Another possible challenge is that adopting to DevOps requires cultural shift since  DevOps is a collaboration-based methodology, it 
 	requires teams to be willing to work together and trust each other’s opinions and decisions. 
+
+
+// Peer reviewed by lmendoza on 03/04/2023
