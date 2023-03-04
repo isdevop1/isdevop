@@ -1,0 +1,22 @@
+**********************************************************************
+*
+*     ISDEVOP S12
+*     ISDEVOP Checkpoint 2 -- Git Commands Reinforcement
+*     Objective: GitKraken and Branching
+*     
+*     Author: Adrian Villanueva
+*     Date: February 27, 2023
+*     
+**********************************************************************
+
+1. In your own words, do you think, we really need DevOps?
+
+Yes, especially on working with large projects with different set of teams. In the sense of "need" — I do think it depends on the scale of your project. If the project needs faster development and deployment that is manageable, Devops would drastically improve efficiency and reliability of the output. It would take a learning curve for new teams or even smaller teams but Devops, through practice, would be a great addition. 
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+Continues Integration is the phase of devops in which developers regularly merge their code changes into their main repository and it is being tested upon. Continues Deployment is a DevOps practice that refers to building and testing improvements to their product or software. This practice eliminates manual testing. Continues development involves planning and coding the software. This process accelerates development as it is generally planned and well thought of. 
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+The most challenging part I would think of is managing your repository with different teams. It should be well planned as even tho you have a repository that teams could collaborate with. It could lead to clashing of code or unability to merge due to merge conflicts
+
+//NOTE: Kindly follow coding/scripting best practice when doing the activity
