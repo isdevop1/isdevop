@@ -3,4 +3,6 @@ Name: Chyle Andrei Lee
 		Favorite Band: Pegboard Nerds
 		Favorite Song: Bipolar Baby
 		Then lastly, complete the sentence:
-				Git is: easy😎
+				Git is: easy😎 // yes! I agree!
+
+// Peer reviewed by lmendoza on 03/04/2023

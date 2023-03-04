@@ -8,3 +8,5 @@
 	- Continuous Deployment (CD): the process of automatically deploying code changes to production environments. The goal of CD is to accelerate the delivery of new features and improvements to end users.
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 	- With automated processes and frequent releases it is hard to keep track of changes quickly.
+
+// Peer reviewed by lmendoza on 03/04/2023
