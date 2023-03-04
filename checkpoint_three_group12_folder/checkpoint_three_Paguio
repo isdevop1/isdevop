@@ -1,0 +1,22 @@
+#Pseudo Code: Enrollment System (for adding Schedule and Assigning all items together)
+
+
+function roomAndTime {
+	- time is set as 1240H to 215H
+	- once the user has selected their chosen subject (in this case, it is ISDEVOP),
+	a list will be prompted to the user
+	- will pass value of time to checkRoomAvail to check its availability
+	- G306A is available as a room at the given time, then it will be assigned as such
+	- returns the string for the main function to be evaluated 
+}
+
+function checkRoomAvail {
+	- if room is not occupied, it is labeled as "vacant" or "open"
+	- if it is, then it is marked "closed"
+	- if "closed", room will be removed from list 
+}
+
+function finalSchedule {
+	- This compiles the subject, room no. and time given
+	- returns the final schedule to the users
+}
