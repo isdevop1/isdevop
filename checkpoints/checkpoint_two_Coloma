@@ -1,3 +1,5 @@
 1. For me, we really need DevOps as it would help deliver the software faster, and it would improve the collaboration with the team.
 2. Continous Integration (CI) is the practice where the developers would regularly integrate code changes in the central repository. Continous Delivery (CD) is where the software would be released to the production manually. On the other hand, Continous Deployment is where the software would be released to the production where the change would be visible to the users already.
 3. For me, the most challengeing part of observing the DevOps framework is learning the different tools that are part of the different phases of DevOps as it is constantly changing and features are being added.
+
+// Peer reviewed by lmendoza on 03/04/2023
