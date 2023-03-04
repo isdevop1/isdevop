@@ -1,0 +1,15 @@
+	1. In your own words, do you think, we really need DevOps?
+		yes because it helps us create meaningful programs and deliver them on time for the clients. 
+		Devops helps connect the developers and the operations team and thus making life easier for both parties
+	2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+	CI(Continous Integration) is basically  building or automatically testing code whenever there is a change.
+	Once a developer makes a change to the code, they get integrated into the repository. 
+	
+	CD( Continous Delivery) is building,testing, and deploying code as soon as they are ready. They are prepared to be in deployment
+	
+	CD( Continuous Deployment) is almost similar to continous delivery the difference being in CD the code is actually being deployed in the
+	production environment. Once the code passes the tests it can now be deployed to the production environment.
+	
+	3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	
+	I think it might just be getting used to the framework. Git itself isnt that hard but what may be challenging is getting used to it
