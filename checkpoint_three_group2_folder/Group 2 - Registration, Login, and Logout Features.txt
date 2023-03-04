@@ -1,0 +1,35 @@
+Test For Registration
+Test 1: Blank field 
+1. Enter the website 
+2. Choose Register
+3. Fill up all necessary information
+4. Leave one field blank
+5. A message will be shown sayig there's a field that needs to be filled.
+
+Test 2 : Do not leave blank fields
+1. Enter the Website
+2. Choose Register
+3. Fill all necessary information 
+4. It will be redirected to the login page.
+
+
+Test for Login 
+Test 1 : Login to console with an invalid username
+1. Fill up the username portion with an invalid name
+2. Input password
+3. Message will be shown saying the user does not exist.
+
+Test 2: Login to console with wrong password
+1. Fill up the username portion 
+2. Input wrong password
+3. Message will be shown saying password is incorrect
+
+Test 3 : Correct credentials
+1. Input correct username
+2. Input correct password
+3. It will be redirected to the homepage of the website.
+
+Test for Logout 
+Test 1 : Logout 
+1. Click logout 
+2. It will be redirected to the login page. 
