@@ -11,3 +11,6 @@ CD or Continuous Deployment takes Continuous Delivery a bit faster since the cha
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 - I believe the most challenging part of observing the DevOps framework is the fast pacing behind it. Since it is quite similar to Agile, progress needs to be done in a much faster rate to keep up with the development time. 
 Due to its faster pacing, you do not only need good technical skills but must also have great planning, communication, and time management skills. 
+
+
+// Peer reviewed by lmendoza on 03/04/2023
