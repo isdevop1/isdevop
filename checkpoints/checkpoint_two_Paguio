@@ -10,3 +10,6 @@ Continuous Deployment (CD) uses both continuous integration and continuous deliv
 
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 I would say it is understanding how the team works and cooperates around you. The framework or methodology is simple enough for the most part, so in my experience, collaboration is still one of the most challenging parts of DevOps. For example, we have a shared repository for a project in one of our classes and as of now, it still has only the master branch. Instead of trying to fix the Git repository’s settings, the group has opted to work on it individually then publish the compressed zip file to Discord or any other medium. This confused us a lot, but we will definitely work on our Git the next time we are asked of a project.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
