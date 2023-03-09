@@ -1,6 +1,0 @@
- Name: Tiffany Anne So
-    Favorite Movie: The First Slam Dunk
-    Favorite Band: Bands in ENLIGHTRIBE (ESMERADLA, SHIFTYz, FAM), My First Story
-    Favorite Song: It varies per animefranchise/genre hehe
-    Then lastly, complete the sentence:
-        Git is one of the most basic tools in a DevOps environment. It is a source code management tool that enables continues integration and seamless collaboration among different teams or departments

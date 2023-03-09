@@ -1,0 +1,10 @@
+1. In your own words, do you think, we really need DevOps?
+	- For me, I really think that we need DevOps. This is because customers really expect a continuous flow of service and at the highest quality possible, especially in today's world where everything is fast-paced.
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+	- CI is Continuous Integration, where the developers implement changes in the code as soon as possible.
+	- CD is Continuous Delivery, where the software is ready to be implemented in the production at any given time.
+	- CD is Contiuous Deployment, where it applies both Continuous Integration and Delivery. This means that as soon as changes are applied to the software, it should be released right away.
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+	- In my opinion, planning and monitoring can be the most challenging. This is where a person should be really observant and should think ahead of time since this is also where the service will heavily on its continuous work.
+
+// Peer reviewed by lmendoza on 03/04/2023
