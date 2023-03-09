@@ -3,6 +3,13 @@ Favorite Movie: Weathering With You
 Favorite Band: Paramore
 Favorite Song: Sunrise (Gambino)
 The lastly, complete the sentence:
+<<<<<<< HEAD
 Git is: get with an i
 
 //test out git 03/09/2023
+=======
+Git is: get with an i // hahaha! oo nga naman! 
+
+
+// Peer reviewed by lmendoza on 03/04/2023
+>>>>>>> 5f6bcda96070fde4b78ad13cf2e8fc81f701ec3b

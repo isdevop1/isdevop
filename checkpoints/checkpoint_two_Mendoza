@@ -11,3 +11,6 @@
 3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
 	- Building the automated tests. Since the goal of DevOps is high velocity it would be detrimental that any automated test applied is actually
 	capable and valid otherwise this could result in more issues that would have to be resolved, thus slowing down performance.
+
+
+// Peer reviewed by lmendoza on 03/04/2023
