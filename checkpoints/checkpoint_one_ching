@@ -1,0 +1,24 @@
+
+*********************************************
+*    ISDEVOPS INDIVIDUAL ACTIVITY 1
+*********************************************
+
+For this activity, kindly do the following
+
+1. Of course, the fact that you can read this mean you are able to download and setup git on your local machine. And of course, you were able to clone this. So, the first thing that you need to do is to congratulate yourself (yaaaaay!)
+
+2. Next step is to create your local branch
+3. Now, on your local branch and inside the isdevopss11 folder, create your own folder:
+    <ISDEVOPS>_Surname; so it should look something like: ISDEVOPS_Mendoza
+
+4. Inside this folder, create a README.txt, this README.txt should contain the following:
+    Name: Ferelyn Ching
+    Favorite Movie: Grown Ups
+    Favorite Band: Ben&Ben
+    Favorite Song: Ride Home
+    Then lastly, complete the sentence:
+        Git is: awesome!! // I know right!!!
+
+5. Push everything to our isdevops_activit1 branch 
+
+// Peer reviewed by lmendoza on 03/04/2023
