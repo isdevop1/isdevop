@@ -4,7 +4,7 @@
 *     ISDEVOP Git Checkpoint 1
 *     Objective: Branches and Folders
 *     
-*     Author: Lourdes Mendoza
+*     Author: Rafael Sanchez
 *     Date: February 25, 2023
 *     
 **********************************************************************
@@ -23,3 +23,5 @@ For today, your task will be to do the following:
 	git add <filename>
 	git commit -m "meaningful" message
 	git push origin
+
+//Edited
